@@ -16,3 +16,6 @@ hello.c
 test.cpp
 str_cmp.c
 str_ncmp.c
+
+#忽略vscode配置文件
+.vscode/
