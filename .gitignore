@@ -9,6 +9,9 @@ bin/
 *.dat
 *.txt
 
+#忽略脚本文件
+*.sh
+
 #忽略调试时的源代码
 ceshi.c
 first_using_cblas.c
