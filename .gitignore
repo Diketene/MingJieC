@@ -19,6 +19,22 @@ hello.c
 test.cpp
 str_cmp.c
 str_ncmp.c
+B_matrix_test.cpp
+boost_test.cpp
+dvr.cpp
+Eigen_diagonal.cpp
+eigen_mdspan.cpp
+error_examine.cpp
+fbr.cpp
+function_pointers.cpp
+integral.hpp
+person.cpp
+qd.cpp
+return_array_pointers.cpp
+sales_data.cpp
+Sales_item.h
+Screen.cpp
+
 
 #忽略vscode配置文件
 .vscode/
